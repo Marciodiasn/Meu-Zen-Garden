@@ -1,0 +1,223 @@
+body{
+  background-image: url(https://i.pinimg.com/originals/fe/b5/49/feb5491cd8ad6ac97010edfa9ce3a778.jpg);
+  background-attachment: fixed;
+}
+
+header{
+  border: 2px solid #252525; 
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-around;  
+}
+
+h1{
+  font-size: 40px;
+  font-weight: lighter;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+h2{
+  font-size: 40px;
+  font-weight: lighter;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+h2 abbr{
+  font-size: 40px;
+  font-weight: lighter;
+  color: #fff;
+  text-decoration: none;
+}
+
+.summary{
+  border-radius: 15px;
+  color: white;
+  text-align: center;
+  font-size: 17px;
+}
+
+.summary abbr{
+  text-decoration: none;
+}
+
+.summary a{
+  color: blue;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.summary a:hover{
+  color: white;
+}
+
+.preamble{
+  width: 70%;
+  border: 2px solid #252525;
+  border-radius: 15px;  
+  color: white;
+  padding: 1px 10px 20px 10px;
+}
+
+.preamble h3{
+  font-family: candara;
+  font-size: 33px;
+  font-weight: lighter;
+  text-transform: uppercase;
+}
+
+.preamble abbr{
+text-decoration: none;
+}
+
+.explanation{
+  width: 70%;
+  color: white;
+  padding: 1px 10px 20px 10px;
+}
+
+.explanation h3{
+  font-family: candara;
+  font-size: 33px;
+  font-weight: lighter;
+  text-transform: uppercase;
+}
+
+.explanation abbr{
+  text-decoration: none;
+}
+
+.participation{
+  width: 70%;
+  border: 2px solid #252525;
+  border-radius: 15px;  
+  color: white;
+  padding: 1px 10px 20px 10px;
+  color: white; 
+}
+
+.participation h3{
+  font-family: candara;
+  font-size: 33px;
+  font-weight: lighter;
+  text-transform: uppercase;
+}
+
+.participation abbr{
+  text-decoration: none;
+}
+
+.participation a{
+  text-decoration: none;
+}
+
+.participation a:hover{
+  color: white;
+}
+
+.benefits{
+  width: 70%;
+  color: white; 
+  padding: 1px 10px 20px 10px;
+}
+
+.benefits h3{
+  font-family: candara;
+  font-size: 33px;
+  font-weight: lighter;
+  text-transform: uppercase;
+}
+
+.benefits abbr{
+  text-decoration: none;
+}
+
+.requirements{
+  width: 70%;
+  border: 2px solid #252525;
+  border-radius: 15px;  
+  color: white;
+  padding: 1px 10px 20px 10px;
+}
+
+.requirements h3{
+  font-family: candara;
+  font-size: 33px;
+  font-weight: lighter;
+  text-transform: uppercase;
+}
+
+.requirements abbr{
+  text-decoration: none;
+}
+
+.requirements a{
+  text-decoration: none;
+}
+
+.requirements a:hover{
+  color: white;
+}
+
+.sidebar{
+  position: relative;
+  bottom: 1660px;
+}
+
+.wrapper{
+  color: white;
+}
+
+.wrapper h3{
+  font-family: Cambria;
+  font-size: 30px;
+  font-weight: lighter;
+  text-transform: uppercase;
+  text-align: right;
+}
+
+.wrapper ul li{
+  list-style-type: none;
+  text-align: right;
+}
+
+.wrapper a{
+  color: white;
+  text-decoration: none;
+}
+
+.wrapper abbr{
+  text-decoration: none;
+}
+
+.design-name:hover{
+  font-family: Courier New;
+  font-style: italic;
+  background-color: #fff8e9;
+  color: black;
+}
+
+.designer-name:hover{
+  font-family: Courier New;
+  font-style: italic;
+  background-color: #fff8e9;
+  color: black;
+}
+
+footer{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+  border: 2px solid #252525;
+  border-radius: 15px;
+}
+
+footer a{
+  color: blue;
+  text-decoration: none;
+}
+
+footer a:hover{
+  color: white;
+}
